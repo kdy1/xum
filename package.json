@@ -168,12 +168,13 @@
     "zod-to-json-schema": "^3.25.2"
   },
   "devDependencies": {
+    "@ai-sdk/provider": "4.0.21",
     "@babel/core": "^7.29.7",
     "@babel/preset-env": "^7.29.7",
     "@babel/preset-react": "^7.29.7",
     "@babel/preset-typescript": "^7.29.7",
     "@coder/pixel-storybook": "0.3.0",
-    "@e2e-dev/web": "0.14.0",
+    "@e2e-dev/web": "0.16.0",
     "@eslint/js": "^9.39.5",
     "@playwright/test": "^1.64.1",
     "@storybook/addon-docs": "^10.6.2",
@@ -214,7 +215,7 @@
     "cmdk": "^1.1.1",
     "concurrently": "^8.2.2",
     "dotenv": "^17.4.2",
-    "e2e": "0.20.0",
+    "e2e": "0.23.1",
     "electron-builder": "^24.13.3",
     "electron-devtools-installer": "^4.0.0",
     "electron-mock-ipc": "^0.3.14",
